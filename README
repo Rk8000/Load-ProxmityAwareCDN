@@ -1,0 +1,1 @@
+Developed Load and Proximity Aware Content Distribution Network(CDN) system that caters resources depending upon load on CDNs and their proximity from user. Used Amazon EC2 as CDNs and S3 as origin server. Functionality of cache update at EC2 , load balancing using HTTP proxy, proximity awareness using route53.
